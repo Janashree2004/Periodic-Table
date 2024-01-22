@@ -2,6 +2,10 @@
 
 Periodic Table using HTML, CSS and JavaScript
 
+## Demo
+
+ [Demo!](https://janashree2004.github.io/Periodic-Table/)
+
 ## How to Use
 
 **1. Clone the repository:**
