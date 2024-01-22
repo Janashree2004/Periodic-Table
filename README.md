@@ -2,17 +2,13 @@
 
 Periodic Table using HTML, CSS and JavaScript
 
-## Preview
-
-![Periodic Table Preview](preview.png)
-
 ## How to Use
 
-1. Clone the repository:
+**1. Clone the repository:**
 
    git clone https://github.com/your-username/periodic-table.git
 
-2. Open the index.html file in your web browser.
+**2. Open the index.html file in your web browser.**
 
 ## Features
 
